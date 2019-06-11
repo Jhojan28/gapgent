@@ -30,4 +30,4 @@ We need to create 2 files inside gapgent-api folder:
 
 And with this we are done with **step 3** :D
 
-# [GO TO STEP 2](https://github.com/jegarcia28/gapgent/tree/step/2)
+# [GO TO STEP 4](https://github.com/jegarcia28/gapgent/tree/step/4)
