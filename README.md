@@ -12,7 +12,6 @@ npm i --save-dev nodemon
 ### Package.json scripts
 
 In scripts section inside package.json, we need to put the necessary scripts for start our server in development and production mode
-
  ```
 ...
 "scripts": {
