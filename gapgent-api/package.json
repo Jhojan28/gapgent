@@ -22,7 +22,8 @@
     "chalk": "^2.4.2",
     "debug": "^4.1.1",
     "express": "^4.17.1",
-    "express-asyncify": "^1.0.0"
+    "express-asyncify": "^1.0.0",
+    "gapgent-db": "file:../gapgent-db"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
